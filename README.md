@@ -37,7 +37,7 @@ LICENSE
 
 👤 Author
 
-Ahsan Raza
+Muhammad Ahsan
 
 📜 License
 This project is licensed under the MIT License.
